@@ -1,5 +1,6 @@
 # wealthyunderstanding
 A lackluster attempt at getting into AI image recognition of Chess
+[Bonus points for whoever finds out the origin of the name]
 
 The program reads the /images/bpr.jpg file, passes it to a pre-trained pytorch model that detects corners of the chessboard.
 After that is done, we do transformations to stretch the image based on its corners, getting a uniform picture akin to a top-down view.

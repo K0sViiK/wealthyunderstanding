@@ -1,0 +1,1 @@
+The program currently reads the image marked as bpr (board picture read), rename images accordingly to test
